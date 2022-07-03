@@ -1,4 +1,9 @@
 #### with_data_analyst
+- 공개 데이터셋 목록 
+  - https://kbig.kr/portal/kbig/datacube.page
+  - https://zdataset.com/
+  - https://bdp.kt.co.kr/ : KT통신 빅데이터 플랫폼(유,무료)
+
 |종류| 주제 | 주요 항목 |데이터| 작성 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
 |분포| 범죄율 | 미국 강력 |USA arrests| 지도, 인구 분포 따른 변화 | - | - |
