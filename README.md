@@ -19,4 +19,6 @@
 |file| 행동예측 | Breathing In-Depth, Wearables in the Wetlab |[uri](https://ubicomp.eti.uni-siegen.de/home/datasets/index.html.en?lang=en)| - | - | - |
 |API| 부동산 실거래가 | 단독/다가구 매매 실거래 자료, 연립다세대 매매 실거래자료, 아파트매매 실거래 자료, 아파트 분양권전매 신고 자료, 오피스텔 매매 신고 조회 서비스, 토지 매매 신고 조회 서비스, 아파트매매 실거래 상세 자료, 상업업무용 부동산 매매 신고 자료 |[api](https://www.data.go.kr/)| [실거래](./codes/deal_estate_state.ipynb) | [공공데이터포털](https://www.data.go.kr/) | 국토교통부 |
 |file?| 말뭉치 | - |-| - | [국립어학원](https://corpus.korean.go.kr/) | 국립어학원 |
+|주소기반| 주소기반 서비스 | 한국 주소기반 산업 지원서비스 |[File, API](https://www.juso.go.kr/addrlink/main.do)| - | - | - |
+
 
