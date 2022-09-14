@@ -1,5 +1,6 @@
-#### with_data_analyst
-- 공개 데이터셋 목록 
+### Python Libraries
+- [Mito & Aibro: The Two Best Python Libraries for Data Analysis and Model Training](https://medium.com/geekculture/mito-aibro-the-two-best-python-libraries-for-data-analysis-and-model-training-43dc432b176c)
+### 공개 데이터셋 목록 
   - https://kbig.kr/portal/kbig/datacube.page
   - https://zdataset.com/
   - https://bdp.kt.co.kr/ : KT통신 빅데이터 플랫폼(유,무료)
