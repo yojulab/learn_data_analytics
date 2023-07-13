@@ -8,7 +8,7 @@
   - https://bdp.kt.co.kr/ : KT통신 빅데이터 플랫폼(유,무료)
 
 ### 주요 내부 코드 링크
-- [./codes/cases](./codes/cases/README.md)
-- [./codes/pandas](./codes/pandas/README.md)
-- [./codes/numpys](./codes/numpys/README.md)
+- [./codes/cases](./codes/cases/)
+- [./codes/pandas](./codes/pandas/)
+- [./codes/numpys](./codes/numpys/)
 - [./codes/dealingwithsound/](./codes/dealingwithsound/)
