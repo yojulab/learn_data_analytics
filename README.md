@@ -9,3 +9,6 @@
 
 ### 주요 내부 코드 링크
 - [./codes/cases](./codes/cases/README.md)
+- [./codes/pandas](./codes/pandas/README.md)
+- [./codes/numpys](./codes/numpys/README.md)
+- [./codes/dealingwithsound/](./codes/dealingwithsound/)
