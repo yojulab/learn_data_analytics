@@ -15,6 +15,7 @@
 | sqlite3 | | [boston to table](./boston_to_table.py) | boston dataset |
 | sqlite3 | --- | [iris to table](./iris_to_table.py) | iris dataset |
 | sqlite3 | query | [from table](./table_to_pandas_with_query.py) | --- |
+| mongodb |  | [to mongodb](./pandas_to_mongodb.py) | --- |
 
 ### simple cases
 | 주제 | 주요 항목 | 구현 | 참조 |
