@@ -5,6 +5,7 @@
 |CloundForm| 댓글 개입 | 국정원 |국정원(뉴스타파 공개)|  | - | - |
 |시계열| 종가 예측 | 삼성전자 |API| - | - | - |
 |시계열| 이용객 수 예측 | 항공기 이용객 |?| - | - | - |
+|시계열| 영업 | 물풀 판매 |[url](https://blog.naver.com/data_station/222493262626) | [ipynb](./TimeSerise_SaleOfGoods.ipynb)| [url](https://blog.naver.com/data_station/222493262626) |  |
 | file| 주민등록인구통계| encoding='cp949' | [cvs](https://jumin.mois.go.kr/index.jsp) | [시도별/성별](./시도별_총_인구수.ipynb), [구동별](./특정지역_구동별_총_인구수.ipynb), [연령별](./연령별분포.ipynb) | [행정안전부](https://jumin.mois.go.kr/index.jsp) |  |
 |file | 기상관측 | 지상,해양,고층,항공,세계기상전문 |[cvs](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)| [서울 연간](./연별_서울_기온변화.ipynb), [전국 월별](./지점별_연_기온변화.ipynb), [열대야](./서울_열대야_시각화.ipynb) | [기상자료개발포털](https://data.kma.go.kr) |  |
 |file| 주택 실거래가 | 아파트 매매가 |[cvs](http://rtdown.molit.go.kr/)|[전국](codes/주택실거래가_전국.ipynb),[특정지역](./주택실거래가_특정지역.ipynb),[부천](./주택실거래가_부천.ipynb)| [국토교통부](http://rt.molit.go.kr/) | - |
@@ -16,4 +17,5 @@
 |주소기반| 주소기반 서비스 | 한국 주소기반 산업 지원서비스 |[File, API](https://www.juso.go.kr/addrlink/main.do)| [blog](https://datascienceschool.net/03%20machine%20learning/03.04.01%20%EC%A7%80%EB%A6%AC%20%EC%A0%95%EB%B3%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B2%98%EB%A6%AC.html), [blog](https://datascienceschool.net/03%20machine%20learning/03.04.02%20%EC%A7%80%EC%98%A4%EC%BD%94%EB%94%A9.html) | - | 행정안전부 |
 |worlddata| worlddata | - |-| - | [worlddata](https://www.worlddata.info/) |  |
 |World Happiness| World Happiness Report | - |-| - | [url](https://worldhappiness.report/) |  |
+
 
