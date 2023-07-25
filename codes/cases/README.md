@@ -1,5 +1,6 @@
 |종류| 주제 | 주요 항목 |데이터| 작성 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
+|Tutorial| 머신러닝 기초 |기초 실습 || [ipynb R01_DDA](./R01_DDA_Manufacture_Process.ipynb)~[ipynb R04_Feature Engineering](R04_Regression_pipeline_Manufacture_Wafers.ipynb) | - | - |
 |분포| 범죄율 | 미국 강력 |USA arrests| 지도, 인구 분포 따른 변화 | - | - |
 |CloundForm| 리뷰 | 네이버 리뷰 영화평 |주요 명사|  | - | - |
 |CloundForm| 댓글 개입 | 국정원 |국정원(뉴스타파 공개)|  | - | - |
